@@ -8,7 +8,7 @@
 
 [![Python application](https://github.com/RAV-Organization/SE_HW_1/actions/workflows/python-app.yml/badge.svg)](https://github.com/RAV-Organization/SE_HW_1/actions/workflows/python-app.yml)
 
-[![Python application](https://github.com/RAV-Organization/SE_HW_1/actions/workflows/python-app.yml/badge.svg)](https://github.com/RAV-Organization/SE_HW_1/actions/workflows/python-app.yml)
-
+<!-- [![Python application](https://github.com/RAV-Organization/SE_HW_1/actions/workflows/python-app.yml/badge.svg)](https://github.com/RAV-Organization/SE_HW_1/actions/workflows/python-app.yml) -->
 <!-- 
+
 ![example workflow](https://github.com/github/docs/actions/workflows/python-app.yml/badge.svg) -->
