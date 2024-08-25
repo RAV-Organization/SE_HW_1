@@ -5,3 +5,5 @@
 ![Static Badge](https://img.shields.io/badge/GNU_AGPLv3-purple)
 
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![example workflow](https://github.com/github/docs/actions/workflows/python-app.yml/badge.svg)
